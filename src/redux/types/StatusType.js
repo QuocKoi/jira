@@ -1,0 +1,5 @@
+export const SET_ALL_STATUS="SET_ALL_STATUS"
+
+
+
+export const FETCH_ALL_STATUS_API="FETCH_ALL_STATUS_API";
