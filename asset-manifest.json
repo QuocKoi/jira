@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/jira/static/css/main.239e8771.css",
+    "main.js": "/jira/static/js/main.84170980.js",
+    "static/js/787.d30c1f43.chunk.js": "/jira/static/js/787.d30c1f43.chunk.js",
+    "static/media/X2oObC4.png": "/jira/static/media/X2oObC4.dfa778261c3f9abc98e1.png",
+    "static/media/128x128.gif": "/jira/static/media/128x128.e240551e6dd795e26911.gif",
+    "static/media/download.jfif": "/jira/static/media/download.ef0b58c72b10cde41e26.jfif",
+    "index.html": "/jira/index.html",
+    "main.239e8771.css.map": "/jira/static/css/main.239e8771.css.map",
+    "main.84170980.js.map": "/jira/static/js/main.84170980.js.map",
+    "787.d30c1f43.chunk.js.map": "/jira/static/js/787.d30c1f43.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.239e8771.css",
+    "static/js/main.84170980.js"
+  ]
+}
